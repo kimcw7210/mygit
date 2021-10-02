@@ -9,5 +9,6 @@ public class HelloWorld {
 		System.out.println("Good luck~");
 		
 		new Foo().sayFoo();
+		new Foo().sayFoo(); //#sayFoo에서 추가.
 	}
 }
