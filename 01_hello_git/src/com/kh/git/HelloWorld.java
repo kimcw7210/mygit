@@ -34,4 +34,11 @@ public class HelloWorld {
 	public void world() {
 		System.out.println("저를 pull해주세요.");
 	}
+	
+	/**
+	* 원격 저장소에서 수정된 내용 #3
+	**/
+	public void bye() {
+		System.out.println("pull 확인용");
+	}
 }
